@@ -15,6 +15,9 @@
 		5909DA1C1D7016FF000BB5EF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5909DA1A1D7016FF000BB5EF /* LaunchScreen.storyboard */; };
 		5909DA271D7016FF000BB5EF /* scrollViewTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5909DA261D7016FF000BB5EF /* scrollViewTestTests.m */; };
 		5909DA321D7016FF000BB5EF /* scrollViewTestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5909DA311D7016FF000BB5EF /* scrollViewTestUITests.m */; };
+		5909DA401D701DC2000BB5EF /* demo1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5909DA3F1D701DC2000BB5EF /* demo1.jpg */; };
+		5909DA431D701DCE000BB5EF /* demo2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5909DA411D701DCE000BB5EF /* demo2.jpg */; };
+		5909DA441D701DCE000BB5EF /* demo3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5909DA421D701DCE000BB5EF /* demo3.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +54,9 @@
 		5909DA2D1D7016FF000BB5EF /* scrollViewTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = scrollViewTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5909DA311D7016FF000BB5EF /* scrollViewTestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = scrollViewTestUITests.m; sourceTree = "<group>"; };
 		5909DA331D7016FF000BB5EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5909DA3F1D701DC2000BB5EF /* demo1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = demo1.jpg; sourceTree = "<group>"; };
+		5909DA411D701DCE000BB5EF /* demo2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = demo2.jpg; sourceTree = "<group>"; };
+		5909DA421D701DCE000BB5EF /* demo3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = demo3.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +111,9 @@
 				5909DA101D7016FF000BB5EF /* AppDelegate.m */,
 				5909DA121D7016FF000BB5EF /* ViewController.h */,
 				5909DA131D7016FF000BB5EF /* ViewController.m */,
+				5909DA3F1D701DC2000BB5EF /* demo1.jpg */,
+				5909DA411D701DCE000BB5EF /* demo2.jpg */,
+				5909DA421D701DCE000BB5EF /* demo3.jpg */,
 				5909DA151D7016FF000BB5EF /* Main.storyboard */,
 				5909DA181D7016FF000BB5EF /* Assets.xcassets */,
 				5909DA1A1D7016FF000BB5EF /* LaunchScreen.storyboard */,
@@ -245,6 +254,9 @@
 			files = (
 				5909DA1C1D7016FF000BB5EF /* LaunchScreen.storyboard in Resources */,
 				5909DA191D7016FF000BB5EF /* Assets.xcassets in Resources */,
+				5909DA431D701DCE000BB5EF /* demo2.jpg in Resources */,
+				5909DA401D701DC2000BB5EF /* demo1.jpg in Resources */,
+				5909DA441D701DCE000BB5EF /* demo3.jpg in Resources */,
 				5909DA171D7016FF000BB5EF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
